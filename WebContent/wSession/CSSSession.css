@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+div#DivContainer {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	vertical-align: middle;
+	justify-content: center;
+	align-items: center;
+}
+
+div#divSubcontainer {
+	transform: translate(-50%, -50%);
+	position: relative;
+	padding: 20px;
+}
+
+[type="submit"].register {
+	width: 104px;
+	height: 50px;
+	border-radius: 8px;
+	background-color: "#8A7755";
+}
+
+[type="submit"].login {
+	width: 104px;
+	height: 50px;
+	border-radius: 8px;
+	background-color: "#6CC067";
+}
+
+input {
+	width: 208px;
+	height: 40px;
+}
+
+form {
+	padding-bottom: 20px;
+}
+
+img#imgShop {
+	top: -20;
+}

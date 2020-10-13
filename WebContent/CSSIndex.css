@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+div {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	text-align: center;
+	color: white;
+}
+
+h1 {
+	color: white;
+}
